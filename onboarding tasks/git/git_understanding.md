@@ -6,7 +6,7 @@ A good commit message is short, clear, and explains what change was made. It sho
 
 ## Good vs bad commit messages
 
-A vague message like `fixed stuff` does not explain the change properly. An overly detailed message can be difficult to read. A good commit message gives enough information without being too long.
+A vague message like `fixed stuff` does not explain the change properly. And an overly detailed message can be difficult to read. A good commit message gives enough information without being too long.
 
 ## How does a clear commit message help in team collaboration?
 
