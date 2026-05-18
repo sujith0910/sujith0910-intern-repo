@@ -19,3 +19,5 @@ Poor commit messages make debugging and tracking changes difficult because the p
 ## Reflection
 
 This task helped me understand the importance of writing meaningful commit messages. Clear commit messages improve communication and make project history easier to follow.
+
+![alt text](image.png)
